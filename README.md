@@ -2,6 +2,9 @@
 
 ## Overview  
 This project investigates the relationship between police killings, racial demographics, and socioeconomic factors in the United States. It provides actionable insights into police brutality, focusing on reforms to enhance fairness, accountability, and transparency. The findings support the goals of the Black Lives Matter movement.
+https://public.tableau.com/views/BLMPROJECT/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+![image](https://github.com/user-attachments/assets/dc957446-4b4e-4cc9-bcba-92020f3e1756)
+
 
 ## Research Questions  
 - Does race affect police brutality?  
